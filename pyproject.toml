@@ -1,0 +1,8 @@
+[project]
+name = "clockify_slack_integration"
+version = "0.1.0"
+dependencies = [
+    "requests",
+    "boto3",
+    "python-dotenv>=1.0.1",
+]
